@@ -1,2 +1,2 @@
 # Air-Quality-Analysis
-New Yprk Air Quality Analysis using R
+New York Air Quality Analysis using R
